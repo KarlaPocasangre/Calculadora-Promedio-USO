@@ -7,7 +7,7 @@ int main()
     // Declaracion de Variables
     int calcular, porcentajeLab, porcentajePar;
     float notaL1, notaL2, notaP1, notaP2, PLab, PPar, NFLabs, NFPars, notaL3, ExamenFinal, recuperacion;
-    double Npresentacion, NFexamenfinal, NotaFinal, NotaFinalRecu, NotaFinal2;
+    double Npresentacion, NotaFinal, NotaFinal2;
     char SiNo;
 
     // Ingreso de Datos Porcentaje
